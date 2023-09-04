@@ -2,3 +2,6 @@
 
 test2 edit
 
+test2 edit rebase1
+
+test2 edit rebase2
